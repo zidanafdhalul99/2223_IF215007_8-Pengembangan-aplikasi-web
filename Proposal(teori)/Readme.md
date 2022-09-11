@@ -46,3 +46,6 @@ Data
 |Total_penjualan|Int|8000
 |keuntungan_penjualan|Int|3000
 ## UX Wireframe
+
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/112912912/189552324-119beb31-1fee-4ecd-9de1-1a462bdcb19e.png)
+
