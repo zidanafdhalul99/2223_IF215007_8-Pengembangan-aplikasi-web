@@ -16,6 +16,43 @@
 -![image](https://user-images.githubusercontent.com/112912912/209941265-6d3a4026-8707-4faa-9cfa-e0445643a1cd.png)
 -![image](https://user-images.githubusercontent.com/112912912/209941276-7457e1fb-a6cf-47f8-a2c3-1030c0458b8d.png)
 
+### Demo : MongoDB / MySQL installation
+-![image](https://user-images.githubusercontent.com/112912912/209943094-98c990df-ed07-4485-bc05-81707606b8bf.png)
+-![image](https://user-images.githubusercontent.com/112912912/209943207-017603b4-784f-4975-abc0-68ae5e117209.png)
+
+### Demo : DBeaver installation & DB connection
+-![image](https://user-images.githubusercontent.com/112912912/209943467-a237703d-0865-440a-bc65-ff45d4e8241e.png)
+
+### Demo : MobaXterm installation & SSH connection
+-![image](https://user-images.githubusercontent.com/112912912/209943592-e54492ef-6929-4fd1-a7e5-e45a40089d55.png)
+-![image](https://user-images.githubusercontent.com/112912912/209943686-82deb82d-d2bf-478c-bac7-2224d00f4074.png)
+
+### Demo : NodeJS & NPM installation, operation & hello world
+### Demo : Linux server operation
+### Demo : Nginx / Apache web server installation & operation
+### Demo : Cpanel operation
+### Demo : Domain registration
+
 ### Demo : HTML Responsive Layout with Media Query & Flexbox
 ![SS1](https://user-images.githubusercontent.com/112912912/190173785-a80fa0af-6fc7-4670-a2d8-e0e78f0f4071.jpg)
 -![SS2](https://user-images.githubusercontent.com/112912912/190173875-877492b4-7a3f-43c8-bac5-f1683da9ceea.jpg)
+
+### Demo : Javascript Data Transformation
+-![image](https://user-images.githubusercontent.com/112912912/209942274-de32d65a-bb63-4c92-8ee1-37f13ca36397.png)
+
+### Demo : Browser API - Event Handling, Local Storage, Element manipulation
+
+### Demo : HTTP GET & POST using Form Action and Fetch API
+-![image](https://user-images.githubusercontent.com/112912912/209942530-a18bb6d7-96f0-431f-9281-a54cdf76b6c0.png)
+-![image](https://user-images.githubusercontent.com/112912912/209942640-bd189490-cd32-4321-8e99-fac3f84af7ea.png)
+
+### Demo : PHP DB - Dynamic Web Page
+### Demo : PHP DB - Web Service
+### Demo : OOP-based PHP Project using Composer
+
+
+
+
+
+
+
