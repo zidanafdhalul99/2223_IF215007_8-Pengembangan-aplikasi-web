@@ -27,11 +27,14 @@
 -![image](https://user-images.githubusercontent.com/112912912/209943592-e54492ef-6929-4fd1-a7e5-e45a40089d55.png)
 -![image](https://user-images.githubusercontent.com/112912912/209943686-82deb82d-d2bf-478c-bac7-2224d00f4074.png)
 
-### Demo : NodeJS & NPM installation, operation & hello world
 ### Demo : Linux server operation
+![image](https://user-images.githubusercontent.com/112912912/209967395-346add16-4d17-4457-8ebd-25301ce26227.png)
+
 ### Demo : Nginx / Apache web server installation & operation
 ### Demo : Cpanel operation
 ### Demo : Domain registration
+-![image](https://user-images.githubusercontent.com/112912912/209968861-998ae166-9705-474f-ae2a-7ae5566968f1.png)
+
 
 ### Demo : HTML Responsive Layout with Media Query & Flexbox
 ![SS1](https://user-images.githubusercontent.com/112912912/190173785-a80fa0af-6fc7-4670-a2d8-e0e78f0f4071.jpg)
@@ -50,8 +53,17 @@
 ### Demo : PHP DB - Web Service
 ### Demo : OOP-based PHP Project using Composer
 ### Demo : Deploy PHP Project to Cpanel
+
 ### Demo : HTML Responsive Layout with Bootstrap
+-![image](https://user-images.githubusercontent.com/112912912/209968019-6ba18635-4fdb-4eb5-bcc8-db65fc8fc1d6.png)
+-![image](https://user-images.githubusercontent.com/112912912/209968042-d5f4582a-f0d9-431f-a06c-7e5fa4807f57.png)
+
+
 ### Demo : Single Page App with React & React-router
+-![image](https://user-images.githubusercontent.com/112912912/209968312-e0b53ac9-63c0-4f2c-9e47-a66d6d2ef6f7.png)
+-![spa](https://user-images.githubusercontent.com/112912912/209969801-1e58c56f-e80d-4cd5-ad9e-73e8ce29198c.png)
+
+
 ### Demo : Dynamic Web Page using Laravel
 ### Demo : Web Service using Slim
 ### Demo : News Site using Wordpress
