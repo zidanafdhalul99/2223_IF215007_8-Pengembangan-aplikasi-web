@@ -49,7 +49,12 @@
 ### Demo : PHP DB - Dynamic Web Page
 ### Demo : PHP DB - Web Service
 ### Demo : OOP-based PHP Project using Composer
-
+### Demo : Deploy PHP Project to Cpanel
+### Demo : HTML Responsive Layout with Bootstrap
+### Demo : Single Page App with React & React-router
+### Demo : Dynamic Web Page using Laravel
+### Demo : Web Service using Slim
+### Demo : News Site using Wordpress
 
 
 
