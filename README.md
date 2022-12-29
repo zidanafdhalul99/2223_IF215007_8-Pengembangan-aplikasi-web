@@ -35,11 +35,17 @@
 
 ### Demo : Cpanel operation
 -![image](https://user-images.githubusercontent.com/112912912/209974682-a8bd5f5b-dd44-451c-a12d-c05598d155d5.png)
+
 -![image](https://user-images.githubusercontent.com/112912912/209975435-ac976add-71c6-4cf5-8b8a-f889105a1da4.png)
+
 -![image](https://user-images.githubusercontent.com/112912912/209975483-be08d055-26b9-4853-9997-8a48c9e45537.png)
+
 -![image](https://user-images.githubusercontent.com/112912912/209975592-8ac0a970-6710-4b8a-8c0c-4354d1849ce0.png)
+
 -![image](https://user-images.githubusercontent.com/112912912/209975657-03bc1eb4-e653-4b23-b299-72d352b9d590.png)
+
 -![image](https://user-images.githubusercontent.com/112912912/209975701-613c9f77-acff-4b7e-8107-619b5892d9b9.png)
+
 -![image](https://user-images.githubusercontent.com/112912912/209975739-41d3127b-a5ba-4023-87fc-483d9a9220f4.png)
 
 ### Demo : Domain registration
